@@ -1,0 +1,22 @@
+{
+	"name"       : "kubeecms/kcms-e-switch",
+	"description": "instant switching between Employee accounts.",
+	"homepage"   : "https://github.com/KubeeCMS/KCMS-e-switch.git",
+	"type"       : "wordpress-muplugin",
+	"license"    : "GPL-2.0-or-later",
+	"require": {
+		"composer/installers": "^1.10"
+	},
+	"require-dev" : {
+		"behat/mink-goutte-driver": "^1.2",
+		"behat/mink-selenium2-driver": "^1.4",
+		"dealerdirect/phpcodesniffer-composer-installer": "^0.5|^0.7.1",
+		"genesis/behat-fail-aid": "^3.7",
+		"johnbillion/php-docs-standards": "^1.2",
+		"paulgibbs/behat-wordpress-extension": "^3.3",
+		"phpcompatibility/php-compatibility": "^9.3",
+		"phpunit/phpunit": "^9.5",
+		"wp-cli/wp-cli-bundle": "^2.4",
+		"wp-coding-standards/wpcs": "^2.3"
+    }
+}
