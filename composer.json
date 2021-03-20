@@ -16,7 +16,6 @@
 		"paulgibbs/behat-wordpress-extension": "^3.3",
 		"phpcompatibility/php-compatibility": "^9.3",
 		"phpunit/phpunit": "^9.5",
-		"wp-cli/wp-cli-bundle": "^2.4",
 		"wp-coding-standards/wpcs": "^2.3"
     }
 }
